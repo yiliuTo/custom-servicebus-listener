@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    azure:
+      servicebus:
+        namespace: yi-test-asb
+        entity-type: queue
